@@ -1,4 +1,4 @@
-# Laboratoires de SD208
+# Laboratoires de SD202
 
 Ce dépôt contient les laboratoires pour le cours SD202 (science des données).
 
